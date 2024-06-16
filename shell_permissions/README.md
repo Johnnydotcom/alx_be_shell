@@ -3,3 +3,4 @@
 4-empty - script that creates an empty file called hello.
 5-execute - script that assigns execute permission to owner of hello file.
 6-multiple_permissions - script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+9-John_Doe - Write a script that sets the mode of the file hello to this:-rwxr-x-wx
